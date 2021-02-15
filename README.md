@@ -1,6 +1,6 @@
 # PRECIOUS-DONATION
 
-Website is live at ![link](https://jay1310.github.io/Donation/index.html) 
+Website is live at [link](https://jay1310.github.io/Donation/index.html) 
 
 
 ## About the Project:
