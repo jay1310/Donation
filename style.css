@@ -1,0 +1,83 @@
+.subnav{
+font-weight: 900;
+position:relative;
+margin-left: 60%;
+}
+
+.index-body{
+    background-image: url('./images/bg.jpg');
+    background-size:cover;
+
+}
+.pay-body{
+    background-image: url('./images/bg.jpg');
+    background-size:cover;
+
+}
+.carousel{
+    opacity: 0.8;
+}
+.row-btn{
+    margin-top: 50px;
+}
+
+.home-btn{
+    position:absolute;
+    margin-left:42%;
+    margin-top: 30px;
+    background-color:maroon;
+}
+.btn a{
+    text-decoration: none;
+    color:ghostwhite
+}
+.navbar{
+    background-color: indigo;
+}
+.heading{
+    font-size:200%;
+    font-weight: bold;
+    font-family: Chalkduster, fantasy;
+    margin-top:10px;
+}
+.pay-heading{
+    font-size:200%;
+    font-weight:bold;
+    font-family: Chalkduster, fantasy;
+    margin-top:10px;
+}
+.pay-heading-2{
+    font-size:200%;
+    margin-top:40px;
+    margin-bottom: 30px;
+}
+
+.jumbotron{
+    background-color:rgb(241, 218, 6);
+    text-align:center;
+}
+.carousel {
+    text-align:center;
+  }
+  
+  .carousel-item {
+  height: 300px;
+  }
+  
+  .carousel-item img{
+    position: relative;
+    top: 5;
+    left: 5px;
+    height:fit-content;
+    width:auto;
+  }
+
+  footer{
+    padding: 10px 0;
+    background-color: indigo;
+    color:white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    
+}
