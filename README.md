@@ -38,6 +38,8 @@ Website is live at ```https://jay1310.github.io/Donation/index.html```
 4. It can also be manually opened by going to address:
 ``` http://localhost:3000```
 
+## Screenshots:
+
 ![homepage](https://user-images.githubusercontent.com/64154442/107982187-97d03580-6fe9-11eb-882f-54fdfaeb7004.png)
 
 ![donate](https://user-images.githubusercontent.com/64154442/107982244-adddf600-6fe9-11eb-89ca-557c0486cbb5.png)
